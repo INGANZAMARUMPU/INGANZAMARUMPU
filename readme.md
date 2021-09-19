@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Django, Java, VueJs, Networking and FastAPI**
 
-- 📫 How to reach me **jonkur@gmail.com**
+- 📫 How to reach me **architect@hogi.bi**
 
 - 📄 Know about my experiences [Python, Django, VueJs, FastAPI, Cassandra and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,...](Python, Django, VueJs, FastAPI, Cassandra and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,...)
 
