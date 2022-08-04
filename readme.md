@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nkurunziza</h1>
 <h3 align="center">Full-stack Developer from Burundi</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inganzamarumpu" alt="inganzamarumpu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=inganzamarumpu" alt="inganzamarumpu" /></a> </p>
 
 - 🔭 I’m currently working on [URUFATANAMENDE](https://urufatanamende.hogi.bi)
 
