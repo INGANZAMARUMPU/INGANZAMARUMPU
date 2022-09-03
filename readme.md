@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=inganzamarumpu" alt="inganzamarumpu" /></a> </p>
 
-- 🔭 I’m currently working on [URUFATANAMENDE](https://urufatanamende.hogi.bi)
+- 🔭 I’m currently working on [UMUHORA](https://umuhora.com)
 
 - 👯 I’m looking to collaborate on **any RUNDI Project**
 
@@ -17,23 +17,23 @@
 
 - 📄 Know about my experiences
   - Worked on 
-      PODIKA,
-      URUFATANAMENDE,
-      DIHAN FINANCE,
-      IKORI,
-      ZERO PLASTIC,
-      VITEL Ama-inite,
-      AKABARE App,
-      IMITI,
-      MEFI CASH
-      ...
+      - MEFI CASH
+      - DIHAN FINANCE
+      - PODIKA
+      - URUFATANAMENDE
+      - IKORI
+      - ZERO PLASTIC
+      - VITEL Ama-inite
+      - AKABARE App
+      - IMITI
+      - IJAMBO APP
+      - ...
   - Trainer in
-      E-Skills for girls 2018,
-      HOGI School of Code,
-      ...
+      - HOGI School of Code
+      - E-Skills for girls 2018
   - Speaker in
-    -WeDoIT 3rd Edition,
-    - Google DevFest Bujumbura  2021...
+    - Google DevFest Bujumbura  2021
+    - WeDoIT 3rd Edition
     
 - ⚡ Fun fact **I like UBUGARI**
 
