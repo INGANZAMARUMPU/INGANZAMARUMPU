@@ -15,7 +15,26 @@
 
 - 📫 How to reach me **architect@hogi.bi**
 
-- 📄 Know about my experiences **Worked on PODIKA, URUFATANAMENDE, DIHAN FINANCE, IKORI, ZERO PLASTIC, VITEL Ama-inite, AKABARE, IMITI,... Trainer in E-Skills for girls 2018, HOGI School of Code,... Speaker in WeDoIT 3rd Edition, Google DevFest 2021...**
+- 📄 Know about my experiences
+  - Worked on 
+      PODIKA,
+      URUFATANAMENDE,
+      DIHAN FINANCE,
+      IKORI,
+      ZERO PLASTIC,
+      VITEL Ama-inite,
+      AKABARE App,
+      IMITI,
+      MEFI CASH
+      ...
+  - Trainer in
+      E-Skills for girls 2018,
+      HOGI School of Code,
+      ...
+  - Speaker in
+    -WeDoIT 3rd Edition,
+    - Google DevFest Bujumbura  2021...
+    
 - ⚡ Fun fact **I like UBUGARI**
 
 <h3 align="left">Connect with me:</h3>
